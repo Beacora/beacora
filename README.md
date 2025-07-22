@@ -2,6 +2,8 @@
 
 **Beacora** is a personal safety and emergency response app designed for real-time location sharing, distress signaling, and offline alerts — with a focus on trust, privacy, and accessibility in Nigeria and similar regions.
 
+🎤 [**View Pitch Deck**](https://beacora-pitch-deck.my.canva.site/)
+
 ## 🚨 Core Features
 
 - **Real-Time Location Sharing:** Stay connected with trusted friends or family by sharing your live location securely.
