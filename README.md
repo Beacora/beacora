@@ -26,7 +26,7 @@ Beacora is built for communities where safety is uncertain and connectivity is u
 Clone the repository and run using Flutter:
 
 ```bash
-git clone https://github.com/yourusername/beacora.git
+git clone https://github.com/beacora/beacora.git
 cd beacora
 flutter pub get
 flutter run
